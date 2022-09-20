@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @NguyenCatNguyen
+ I’m @NguyenCatNguyen
 
