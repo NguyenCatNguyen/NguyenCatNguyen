@@ -4,10 +4,10 @@
   - Embracing growth, open to new ideas, and eager to learn from others🌱
 
 ## 📦 My Toolbox
-**Language:** `CSS` `JavaScript` `TypeScrip` `Python` `SQL` 
-**Library:** `React` `Three.js` `Pygame`
-**Version Control:** `Git` `GitLab`
-**Others:** `Blender` `Figma` `Unity`
+- **Language:** `CSS` `JavaScript` `TypeScrip` `Python` `SQL` 
+- **Library:** `React` `Three.js` `Pygame`
+- **Version Control:** `Git` `GitLab`
+- **Others:** `Blender` `Figma` `Unity`
 
 
 ## ✨ Fun Facts
