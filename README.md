@@ -14,6 +14,6 @@
 - In my free time, you'll find me exploring cool 3D designs and honing my skills in Blender.
 
 ### Visit my website here:
-- [My Website](https://nguyencatnguyen.github.io/CatNguyen/Main/index.html)
+- [My Website](https://nguyencatnguyen.github.io/CatNguyen/index.html)
 - Let's connect and create something amazing together! 🌟💻
 
