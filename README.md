@@ -1,3 +1,5 @@
+![](Logo.gif)
+
 ### Hi, I’m Cat Nguyen 👋
   - Front-end Developer
   - Passionate about creaating user-friendly website with 3D touch 🌏🎨
