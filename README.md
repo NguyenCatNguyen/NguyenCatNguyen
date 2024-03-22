@@ -1,5 +1,5 @@
-![](Logo.gif)
-<img src="Logo.gif" alt="Image Description" style="width: 200px;">
+
+<img src="Logo.gif" alt="Image Description" style="width: 450px;">
 
 ### Hi, I’m Cat Nguyen 👋
   - Front-end Developer
