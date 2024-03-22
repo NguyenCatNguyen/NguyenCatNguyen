@@ -1,4 +1,5 @@
 ![](Logo.gif)
+<img src="Logo.gif" alt="Image Description" style="width: 200px;">
 
 ### Hi, I’m Cat Nguyen 👋
   - Front-end Developer
