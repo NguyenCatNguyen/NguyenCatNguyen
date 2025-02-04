@@ -8,7 +8,7 @@
 
 ## 📦 My Toolbox
 - **Language:** `CSS` `JavaScript` `TypeScrip` `Python` `SQL` 
-- **Library:** `React` `Three.js` `Pygame`
+- **Library:** `React.js` `Three.js` `Pygame` `Next.js`
 - **Version Control:** `Git` `GitLab`
 - **Others:** `Blender` `Figma` `Unity`
 
