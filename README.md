@@ -7,8 +7,8 @@
 
 ## 📦 My Toolbox
 - **Languages:** `CSS` `JavaScript` `TypeScript` `Python` `SQL`  
-- **Libraries & Frameworks:** `React.js` `Next.js` `Three.js` `Pygame`  
-- **Styling:** `Tailwind CSS`  
+- **Libraries & Frameworks:** `React.js` `Next.js` `Three.js` `GSAP`
+- **Styling:** `Tailwind CSS` `GSAP`
 - **Version Control:** `Git` `GitLab`  
 - **Others:** `Blender` `Figma` `Unity`  
 
