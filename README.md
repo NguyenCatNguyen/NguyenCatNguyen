@@ -1,5 +1,3 @@
-<img src="Logo.gif" alt="Image Description" style="width: 450px;">
-
 ### Hi, I’m Cat Nguyen 👋
   - Front-end Developer
   - Passionate about creating user-friendly websites with a 3D touch 🌏🎨
