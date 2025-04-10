@@ -15,6 +15,7 @@
 
 ## 🔗 View some of my projects
 - [Zentry Gaming](https://nguyencatnguyen.github.io/ZentryGaming/)
+- [ZeldaWiki](https://nguyencatnguyen.github.io/ZeldaWIki)
 
 ### Visit my website here:
 - [My Website](https://nguyencatnguyen.github.io/CatNguyen/index.html)  
