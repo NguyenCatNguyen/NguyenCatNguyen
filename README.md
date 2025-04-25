@@ -8,10 +8,10 @@
 
 
 ## 🔗 View some of my projects
-- [Zentry Gaming](https://nguyencatnguyen.github.io/ZentryGaming/){:target="_blank"} 
+- [Zentry Gaming](https://nguyencatnguyen.github.io/ZentryGaming/){:target="_blank"}  
   - A gaming website that provides a platform for gamers to connect, share, and explore the latest in gaming news and trends.  
-- [ZeldaWiki](https://nguyencatnguyen.github.io/ZeldaWIki){:target="_blank"} 
-  - A wiki website dedicated to the Legend of Zelda series, offering fans a comprehensive resource for information, and guides about in-game items.
+- [ZeldaWiki](https://nguyencatnguyen.github.io/ZeldaWIki){:target="_blank"}  
+  - A wiki website dedicated to the Legend of Zelda series, offering fans a comprehensive resource for information and guides about in-game items.
 
 ## 💫 Visit my website here:
 - [My Website](https://nguyencatnguyen.github.io/CatNguyen/index.html)  
