@@ -15,7 +15,7 @@
 
 
 ## 💫 Visit my website here:
-- [My Website](https://nguyencatnguyen.github.io/CatNguyen/index.html)  
+- Check out my 3D Portfolio 👉 [My Website](https://nguyencatnguyen.github.io/3D-Portfolio/)  
 - Let's connect and create something amazing together! 🌟💻
 
 
